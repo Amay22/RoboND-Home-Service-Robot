@@ -2,6 +2,8 @@
 
 Home service robot as part of my Udacity Robotics Nanodegree.
 
+![Home-Service-Bot-Rviz](./images/Home-Service-Bot-Rviz.png)
+![Home-Service-Bot-Gazebo](./images/Home-Service-Bot-Gazebo.png)
 
 This proect is to be built from scratch for a home service robot with the following steps:
 
